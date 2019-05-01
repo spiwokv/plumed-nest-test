@@ -1,0 +1,30 @@
+;
+;	User spoel (236)
+;	Wed Nov  3 17:12:44 1993
+;	Input file
+;
+title               =  Yo
+constraints         =  none
+integrator          =  sd
+dt                  =  0.001	; ps !
+nsteps              =  5000000	; total 10 ns.
+nstcomm             =  0
+nstxout             =  1000
+nstvout             =  1000
+nstfout             =  0
+nstlog              =  1000
+nstenergy           =  100
+nstlist             =  10
+ns_type             =  simple
+coulombtype         =  Cut-off
+rlist               =  1.3
+rcoulomb            =  1.3
+rvdw                =  1.3
+; Berendsen temperature coupling is on in two groups
+Tcoupl              =  v-rescale
+tc-grps		    =  system
+tau_t               =  0.2
+ref_t               =  300
+; Energy monitoring
+energygrps          =  system
+; Isotropic pressure coupling is now on

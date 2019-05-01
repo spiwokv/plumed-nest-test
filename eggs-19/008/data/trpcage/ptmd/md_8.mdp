@@ -1,0 +1,34 @@
+constraint-algorithm = lincs
+constraints         =  all-bonds
+integrator          =  md
+dt                  =  0.002	; ps !
+nsteps              =  500000	; total 1 ns
+nstcomm             =  10
+nstxout             =  500
+nstvout             =  500
+nstfout             =  0
+nstlog              =  100
+nstenergy           =  100
+nstlist		    =  10
+pbc                 =  xyz
+ns_type             =  grid
+cutoff-scheme       =  verlet
+coulombtype         =  PME
+rlist               =  1.0
+rcoulomb            =  1.0
+rvdw                =  1.0
+Tcoupl              =  v-rescale
+tc-grps             =  System
+tau_t               =  0.1
+ref_t               =  346.000000
+; Energy monitoring
+energygrps          =  System
+; Pressure coupling is not on
+Pcoupl              =  no
+tau_p               =  0.5
+compressibility     =  4.5e-5
+ref_p               =  1.0
+; Generate velocites is on at 300 K.
+gen_vel             =  no
+gen_temp            =  300.0
+gen_seed            =  173529
