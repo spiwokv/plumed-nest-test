@@ -27,6 +27,6 @@ Simple simulation used to demonstrate that free energy surface can be calculated
   <div class="modal-content">
     <span class="close">&times;</span>
     <p>Markdown<pre>[![plumID:19.006](https://www.plumed-nest.org/eggs-19/006/badge.svg)](https://www.plumed-nest.org/test-site/eggs-19/006/)</pre>
-    <br>HTML<pre>&lt;a href="https://www.plumed-nest.org/test-site/eggs-19/006/" alt="plumID:19.006"&gt;&lt;img src="https://www.plumed-nest.org/eggs-19/006/badge.svg" /&gt;&lt;/a&gt;</pre></p>
+    <br>HTML<pre>&lt;a href="https://www.plumed-nest.org/test-site/eggs-19/006"&gt;&lt;img src="https://www.plumed-nest.org/eggs-19/006/badge.svg" alt="plumID:19.006 "/&gt;&lt;/a&gt;</pre>
   </div>
 </div>

@@ -394,7 +394,7 @@ def process_egg(path,eggdb=None):
              print("  <div class=\"modal-content\">", file=o)
              print("    <span class=\"close\">&times;</span>", file=o)
              print("    <p>Markdown<pre>[![plumID:" + egg_id + "](https://www.plumed-nest.org/eggs-" + path[5:7] + "/" + path[8:11] + "/badge.svg)](https://www.plumed-nest.org/test-site/eggs-" + path[5:7] + "/" + path[8:11] + "/)</pre>", file=o)
-             print("    <br>HTML<pre>&lt;a href=\"https://www.plumed-nest.org/test-site/eggs-" + path[5:7] + "/" + path[8:11] + "/\" alt=\"plumID:" + egg_id + "\"&gt;&lt;img src=\"https://www.plumed-nest.org/eggs-" + path[5:7] + "/" + path[8:11] + "/badge.svg\" /&gt;&lt;/a&gt;</pre></p>", file=o)
+             print("    <br>HTML<pre>&lt;a href=\"https://www.plumed-nest.org/test-site/eggs-" + path[5:7] + "/" + path[8:11] + "\"&gt;&lt;img src=\"https://www.plumed-nest.org/eggs-" + path[5:7] + "/" + path[8:11] + "/badge.svg\" alt=\"plumID:" + egg_id + " \"/&gt;&lt;/a&gt;</pre>", file=o)
              print("  </div>", file=o)
              print("</div>", file=o)
 
