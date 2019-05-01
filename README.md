@@ -2,6 +2,7 @@
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/plumed-nest/plumed-nest.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/plumed-nest/plumed-nest/alerts/)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/plumed-nest/plumed-nest.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/plumed-nest/plumed-nest/context:python)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/plumed-nest/plumed-nest.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/plumed-nest/plumed-nest/context:javascript)
+[![plumID:19.006](https://www.plumed-nest.org/test-site/eggs-19/006/badge.svg)](https://www.plumed-nest.org/test-site/eggs-19/006/)
 
 # PLUMED-NEST
 This repository contains all the sources and scripts required to build the website located at www.plumed-nest.org.
