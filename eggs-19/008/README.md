@@ -31,6 +31,6 @@ Neural networks were created by ancolvar (https://github.com/spiwokv/anncolvar) 
   <div class="modal-content">
     <span class="close">&times;</span>
     Markdown<pre>[![plumID:19.008](https://www.plumed-nest.org/eggs-19/008/badge.svg)](https://www.plumed-nest.org/test-site/eggs-19/008/)</pre>
-    HTML<pre>&lt;a href="https://www.plumed-nest.org/test-site/eggs-19/008"&gt;&lt;img src="https://www.plumed-nest.org/eggs-19/008/badge.svg" alt="plumID:19.008 "/&gt;&lt;/a&gt;</pre>
+    HTML<pre>&lt;a href="https://www.plumed-nest.org/test-site/eggs-19/008"&gt;&lt;img src="https://www.plumed-nest.org/eggs-19/008/badge.svg" alt="plumID:19.008" /&gt;&lt;/a&gt;</pre>
   </div>
 </div>
