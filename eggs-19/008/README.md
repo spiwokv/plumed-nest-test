@@ -26,6 +26,7 @@ Neural networks were created by ancolvar (https://github.com/spiwokv/anncolvar) 
 **[v1]** 16 Apr 2019: original submission  
 **[v2]** 18 Apr 2019: updated DOI  
 **[v3]** 24 Apr 2019: zip moved to materialscloud.org  
+
 <img src="./badge.svg" alt="plumeDnest:19.008" id="myBtn"/>
 <div id="myModal" class="modal">
   <div class="modal-content">
