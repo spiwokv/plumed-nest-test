@@ -17,12 +17,11 @@
   
 **Project description and instructions**  
 Simple simulation used to demonstrate that free energy surface can be calculated from flying Gaussians results using umbrella sampling reweighing, despite dynamics of the bias potential. Tested on OpenMPI4.0.0, Gromacs 2018.5 and Plumed2.5.0. Script provided.
-
   
 **Submission history**  
 **[v1]** 13 Apr 2019: original submission  
 **[v2]** 21 Apr 2019: zip moved to materialscloud.org  
-<img src="./badge.svg" alt="plumeDnest:19.006" id="myBtn" style="margin-top:2em;">
+<img src="./badge.svg" alt="plumeDnest:19.006" id="myBtn" style="margin-top:1em;">
 <div id="myModal" class="modal">
   <div class="modal-content">
     <span class="close">&times;</span>
