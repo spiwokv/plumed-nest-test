@@ -22,7 +22,7 @@ Simple simulation used to demonstrate that free energy surface can be calculated
 **Submission history**  
 **[v1]** 13 Apr 2019: original submission  
 **[v2]** 21 Apr 2019: zip moved to materialscloud.org  
-<img src="./badge.svg" alt="plumeDnest:19.006" id="myBtn"/>
+<img src="./badge.svg" alt="plumeDnest:19.006" id="myBtn" class="badge">
 <div id="myModal" class="modal">
   <div class="modal-content">
     <span class="close">&times;</span>
